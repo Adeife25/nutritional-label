@@ -29,4 +29,4 @@ Building attention to detail in frontend design
 
 🚀 Live Preview
 👉 Click here to view Nutritional Label
-(Replace yourusername with your actual GitHub username)
+https://adeife25.github.io/nutritional-label/
